@@ -18,7 +18,7 @@ The heaviest Meteorite is of `60000000 g` and lightest as `0.01 `g, and the aver
 
 #### Number of recordings per 10 year period
 
-There are a recording of year 2101, which is not possible, so I removed that data from dataset for year based analysis.
+There is a recording of year 2101, which is not possible, so I removed that data from dataset for year based analysis.
 
 In ascending order
 ` year
