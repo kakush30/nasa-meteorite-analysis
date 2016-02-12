@@ -14,7 +14,7 @@ As there are some meteorites that are reported as 0 g, for analysis of heaviest 
 The results as following 
 (60000000.0, 0.01, 13283.615209542177)
 
-The heaviest Meteorite is of 60000000 g and lightest as 0.01 g, and the average is 13283.61 g
+The heaviest Meteorite is of `60000000 g` and lightest as `0.01 `g, and the average is `13283.61 g`
 
 #### Number of recordings per 10 year period
 
@@ -92,3 +92,7 @@ For descending order
 (1697, 1707]        1
 (1687, 1697]        1
 (1727, 1737]        0`
+
+#### Analysis of past 100 years
+
+![img2](https://raw.githubusercontent.com/kakush30/nasa-meteorite-analysis/master/img/100_years.png)
