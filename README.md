@@ -96,3 +96,9 @@ For descending order
 #### Analysis of past 100 years
 
 ![img2](https://raw.githubusercontent.com/kakush30/nasa-meteorite-analysis/master/img/100_years.png)
+
+Yes the technologies advance, the number of events of meteorite strikes that reported increased with each passing year. 
+
+#### Average mass of meteorites in recorded data
+
+The average mass of meteorites is `13283.61 g`
