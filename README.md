@@ -7,3 +7,51 @@ The analysis is done on NASA's Meteorite Dataset, that can be downloaded from [h
 As there are various classes reported in Datasets, that is same but reported in Capital letters & Small. For removing this ambiguity I changed all classes to small letters. This is the sample result.
 
 ![1st img](https://raw.githubusercontent.com/kakush30/nasa-meteorite-analysis/master/img/result_1.png)
+
+#### Heaviest and Lightest Meteorite landing recorded
+
+As there are some meteorites that are reported as 0 g, for analysis of heaviest and lightest meteorites I removed those datasets.
+The results as following 
+(60000000.0, 0.01, 13283.615209542177)
+
+The heaviest Meteorite is of 60000000 g and lightest as 0.01 g, and the average is 13283.61 g
+
+#### Number of recordings per 10 year period
+
+There are a recording of year 2101, which is not possible, so I removed that data from dataset for year based analysis.
+
+In ascending order
+'(year
+(1687, 1697]        1
+(1697, 1707]        1
+(1707, 1717]        2
+(1717, 1727]        2
+(1727, 1737]        0
+(1737, 1747]        2
+(1747, 1757]        5
+(1757, 1767]        1
+(1767, 1777]        7
+(1777, 1787]        6
+(1787, 1797]       10
+(1797, 1807]       18
+(1807, 1817]       28
+(1817, 1827]       32
+(1827, 1837]       27
+(1837, 1847]       54
+(1847, 1857]       65
+(1857, 1867]       80
+(1867, 1877]       94
+(1877, 1887]      116
+(1887, 1897]      125
+(1897, 1907]      146
+(1907, 1917]      149
+(1917, 1927]      157
+(1927, 1937]      263
+(1937, 1947]      230
+(1947, 1957]      221
+(1957, 1967]      307
+(1967, 1977]     1785
+(1977, 1987]     7698
+(1987, 1997]     9663
+(1997, 2007]    19691
+(2007, 2017]     4417'
