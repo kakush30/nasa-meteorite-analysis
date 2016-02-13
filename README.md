@@ -1,6 +1,6 @@
 # Nasa Meteorite Analysis
 
-The analysis is done on NASA's Meteorite Dataset, that are downloaded from [here](https://data.nasa.gov/view/ak9y-cwf9). In this analysis is done on classes of Meteorite, weight of meteorites & analysis of how many events happened in 10 years period in past 200 years. 
+This analysis is based on NASA's Meteorite Dataset, which is downloaded from [here](https://data.nasa.gov/view/ak9y-cwf9). In this analysis is done on classes of Meteorite, weight of meteorites & analysis of how many events happened in 10 years period in past 200 years. 
 
 #### Number of recordings grouped by recclass
 
