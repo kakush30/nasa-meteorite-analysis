@@ -104,6 +104,6 @@ The average mass of meteorites is `13283.61 g`
 
 #### Alternative ways to do Analysis
 
-Beside from CSV analysis, the larger analysis can be done by importing JSON supplied data into MongoDB. MongoDB support various operations that cant be done by Pandas Library. 
+Beside from CSV analysis, the more complex analysis can be done by importing JSON supplied data from NASA into MongoDB. MongoDB support various operations that cant be done by Pandas Library. 
 
 Example of MongoDB driven Analysis:https://github.com/kakush30/Project-3-Data-Wrangling-with-MongoDB
