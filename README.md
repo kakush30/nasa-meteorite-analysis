@@ -104,6 +104,15 @@ The average mass of meteorites is `13283.61 g`
 
 #### Alternative ways to do Analysis
 
-Beside from CSV analysis, the more complex analysis can be done by importing JSON supplied data from NASA into MongoDB. MongoDB support various operations that cant be done by Pandas Library. 
+1) Beside from CSV analysis, the more complex analysis can be done by importing JSON supplied data from NASA into MongoDB. MongoDB support various operations that cant be done by Pandas Library. 
 
 Example of MongoDB driven Analysis:https://github.com/kakush30/Project-3-Data-Wrangling-with-MongoDB
+
+2) If the dataset is too much large, like in Giga byte or Terra byte, then using Hadoop with Pig would be helpful. 
+
+Example :- Query for finding heaviest meteorite.
+
+`file = LOAD 'Meteorite_Landings.csv' USING PigStorage(',') AS (name:chararray,recclass:chararray,mass (g):int);`
+`A = ORDER A BY mass (g) DESC;`
+`B = LIMIT B 1;`
+`DUMP B;`
