@@ -113,6 +113,9 @@ Example of MongoDB driven Analysis:https://github.com/kakush30/Project-3-Data-Wr
 Example :- Query for finding heaviest meteorite.
 
 `file = LOAD 'Meteorite_Landings.csv' USING PigStorage(',') AS (name:chararray,recclass:chararray,mass (g):int);`
+
 `A = ORDER A BY mass (g) DESC;`
+
 `B = LIMIT B 1;`
+
 `DUMP B;`
