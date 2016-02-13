@@ -108,7 +108,7 @@ The average mass of meteorites is `13283.61 g`
 
 Example of MongoDB driven Analysis:https://github.com/kakush30/Project-3-Data-Wrangling-with-MongoDB
 
-2) If the dataset is too much large, like in Giga byte or Terra byte, then using Hadoop with Pig would be helpful. 
+2) If the dataset is too much large, like in Giga byte or Tera byte, then using Hadoop with Pig would be helpful. 
 
 Example :- Query for finding heaviest meteorite.
 
