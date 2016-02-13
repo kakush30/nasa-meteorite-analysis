@@ -96,7 +96,7 @@ For descending order
 
 ![img2](https://raw.githubusercontent.com/kakush30/nasa-meteorite-analysis/master/img/100_years.png)
 
-Yes the technologies advance, the number of events of meteorite strikes that reported increased with each passing year. 
+As the technologies advance, the number of events of meteorite strikes that reported increased with each passing year. 
 
 #### Average mass of meteorites in recorded data
 
